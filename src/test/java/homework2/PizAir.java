@@ -36,7 +36,7 @@ public class PizAir {
         surnameField.sendKeys(Keys.ENTER);
 
         WebElement discountField = browser.findElement(DISCOUNT_CODE);
-        discountField.sendKeys("QaGuruBest");
+        discountField.sendKeys("ForFree");
         discountField.sendKeys(Keys.ENTER);
 
         WebElement numberOfPeople = browser.findElement(ADULTS);
