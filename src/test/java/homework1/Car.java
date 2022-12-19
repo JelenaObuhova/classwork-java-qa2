@@ -1,4 +1,4 @@
-package fuel;
+package homework1;
 
 public class Car {
     private String Model;

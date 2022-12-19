@@ -50,20 +50,3 @@ public class ActionWithNumbers {
 
 
 
-
-
-
-
-
- /*for (int i = 0; i < numbers.size(); i++){
-     if ((numbers.get(i))/2 == 4) {
-        System.out.println("Divided numbers by 2 equals 4" + numbers.get(i));
-     }
- }
-*/
-
-
-
-
-
-

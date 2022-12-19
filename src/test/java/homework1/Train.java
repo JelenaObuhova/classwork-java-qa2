@@ -1,4 +1,4 @@
-package fuel;
+package homework1;
 
 public class Train {
     private Number trainNumber;

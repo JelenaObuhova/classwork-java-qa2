@@ -1,4 +1,4 @@
-package fuel;
+package homework1;
 
 import org.junit.jupiter.api.Test;
 
